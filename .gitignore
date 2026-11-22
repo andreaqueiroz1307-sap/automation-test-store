@@ -1,0 +1,17 @@
+
+# Dependências
+node_modules/
+
+# Configurações da IDE
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Relatórios e resultados temporários do Cypress
+cypress/videos/

@@ -1,0 +1,19 @@
+
+{
+  "name": "automation-test-store",
+  "version": "1.0.0",
+  "description": "Automação de testes UI e E2E com Cypress na Automation Test Store",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "automacao",
+    "testes"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^16.3.0"
+  }
+}

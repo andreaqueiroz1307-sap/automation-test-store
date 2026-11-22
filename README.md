@@ -24,7 +24,7 @@ O objetivo é validar funcionalidades de navegação, busca, catálogo de produt
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/andreaqueiroz1307-sap/automation-test-store.git
 ```
 
 Entre na pasta:
